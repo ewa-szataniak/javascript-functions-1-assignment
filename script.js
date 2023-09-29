@@ -3,3 +3,9 @@
 //After you're done, try looking around at the CSS and HTML to 
 //see if you understand what's going on :)
 
+function numberAdder(num1, num2) {
+    return num1 + num2;
+}
+
+let answer = numberAdder(3, 5);
+console.log(answer); // the answer will be 8
